@@ -1,0 +1,12 @@
+/*
+Her laver jeg mit style sheet
+*/
+*{
+   margin:0; 
+   padding:0;
+   box-sizing: border-box;
+}
+
+Body {
+   background-color: beige;
+}
